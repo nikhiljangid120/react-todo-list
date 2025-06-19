@@ -1,7 +1,7 @@
  React To-Do List 
 ================    
 
-A simple React app to manage tasks with a clean UI, built with Vite and plain CSS.
+A simple React app to manage tasks with a clean UI, built with Vite and plain CSS. 
 
 Features
 --------
