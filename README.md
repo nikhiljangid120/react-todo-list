@@ -4,7 +4,7 @@
 A simple React app to manage tasks with a clean UI, built with Vite and plain CSS. 
 
 Features
---------
+-------- 
 
 *   Add, remove, and complete tasks.
     
